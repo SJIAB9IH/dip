@@ -1,0 +1,1409 @@
+.main {
+    background-color: #0f0f0f;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .main .div {
+    background-color: #0f0f0f;
+    height: 5242px;
+    overflow: hidden;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .main .overlap {
+    height: 1764px;
+    left: -14px;
+    position: absolute;
+    top: 3478px;
+    width: 1934px;
+  }
+  
+  .main .image {
+    height: 716px;
+    left: 14px;
+    object-fit: cover;
+    position: absolute;
+    top: 564px;
+    width: 874px;
+  }
+  
+  .main .img {
+    height: 716px;
+    left: 1156px;
+    object-fit: cover;
+    position: absolute;
+    top: 564px;
+    width: 778px;
+  }
+  
+  .main .rectangle {
+    background: linear-gradient(270deg, rgba(16, 16, 16, 0) 0%, rgba(16, 16, 16, 1) 100%);
+    height: 716px;
+    left: 1106px;
+    position: absolute;
+    top: 564px;
+    width: 386px;
+  }
+  
+  .main .rectangle-2 {
+    background: linear-gradient(270deg, rgba(16, 16, 16, 0) 0%, rgba(16, 16, 16, 1) 100%);
+    height: 716px;
+    left: 502px;
+    position: absolute;
+    top: 564px;
+    transform: rotate(180deg);
+    width: 386px;
+  }
+  
+  .main .ellipse {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 1739px;
+    opacity: 0.5;
+    position: absolute;
+    top: 592px;
+    width: 195px;
+  }
+  
+  .main .ellipse-2 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 1114px;
+    width: 195px;
+  }
+  
+  .main .ellipse-3 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 296px;
+    opacity: 0.5;
+    position: absolute;
+    top: 480px;
+    width: 195px;
+  }
+  
+  .main .ellipse-4 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 1270px;
+    opacity: 0.5;
+    position: absolute;
+    top: 1211px;
+    width: 195px;
+  }
+  
+  .main .frame {
+    background-color: #ffffff;
+    height: 484px;
+    left: 14px;
+    position: absolute;
+    top: 1280px;
+    width: 1920px;
+  }
+  
+  .main .view {
+    height: 303px;
+    left: 380px;
+    position: absolute;
+    top: 90px;
+    width: 567px;
+  }
+  
+  .main .p {
+    color: transparent;
+    font-family: "TT Firs Neue-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    top: 0;
+    width: 563px;
+  }
+  
+  .main .text-wrapper {
+    color: #242424;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-style: italic;
+  }
+  
+  .main .span {
+    color: #ff2525;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-style: italic;
+  }
+  
+  .main .overlap-group {
+    border: 1px solid;
+    border-color: #00000033;
+    border-radius: 1000px;
+    height: 62px;
+    left: 0;
+    position: absolute;
+    top: 139px;
+    width: 412px;
+  }
+  
+  .main .text-wrapper-2 {
+    color: #242424;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .main .overlap-group-wrapper {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: 230px;
+    width: 273px;
+  }
+  
+  .main .overlap-group-2 {
+    background-color: #ff2525;
+    border: 2px solid;
+    border-color: #ffffff4c;
+    border-radius: 10px;
+    height: 73px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .main .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 17.6px;
+    position: absolute;
+    top: 26px;
+    white-space: nowrap;
+  }
+  
+  .main .vector {
+    height: 7px;
+    left: 193px;
+    object-fit: cover;
+    position: absolute;
+    top: 31px;
+    width: 30px;
+  }
+  
+  .main .view-2 {
+    height: 270px;
+    left: 1020px;
+    position: absolute;
+    top: 107px;
+    width: 523px;
+  }
+  
+  .main .image-2 {
+    height: 236px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 35px;
+    width: 519px;
+  }
+  
+  .main .text-wrapper-4 {
+    color: #ff2525;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    left: 310px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .main .text-wrapper-5 {
+    color: #242424;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 213px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+  }
+  
+  .main .rectangle-3 {
+    background-color: #ffffff;
+    height: 564px;
+    left: 14px;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .main .image-3 {
+    height: 356px;
+    left: 663px;
+    object-fit: cover;
+    position: absolute;
+    top: 191px;
+    width: 290px;
+  }
+  
+  .main .content {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 20px;
+    justify-content: space-between;
+    left: 409px;
+    position: absolute;
+    top: 30px;
+    width: 1200px;
+  }
+  
+  .main .title {
+    color: transparent;
+    flex: 1;
+    font-family: "TT Firs Neue-Bold", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 64px;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .main .text-wrapper-6 {
+    color: #2b2d33;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-style: italic;
+  }
+  
+  .main .stopper {
+    height: 20px;
+    position: relative;
+    width: 40px;
+  }
+  
+  .main .FAQ {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    max-width: 590px;
+    min-width: 420px;
+    position: relative;
+  }
+  
+  .main .FAQ-2 {
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--neutralborder);
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    max-width: 590px;
+    min-width: 420px;
+    padding: 32px 0px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .main .text-wrapper-7 {
+    color: var(--neutralprimary);
+    flex: 1;
+    font-family: "TT Firs Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .main .icon {
+    align-items: center;
+    background-color: var(--neutralsystem);
+    border-radius: 600px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .main .icon-feather-icon {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+  }
+  
+  .main .FAQ-3 {
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--neutralborder);
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 590px;
+    min-width: 420px;
+    padding: 32px 0px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .main .title-2 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .main .text-wrapper-8 {
+    align-self: stretch;
+    color: var(--neutralsecondary);
+    font-family: "Inter Tight", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+  }
+  
+  .main .group {
+    height: 390px;
+    left: 672px;
+    position: absolute;
+    top: 693px;
+    width: 669px;
+  }
+  
+  .main .overlap-2 {
+    height: 276px;
+    left: 103px;
+    position: absolute;
+    top: 114px;
+    width: 436px;
+  }
+  
+  .main .rectangle-4 {
+    background-color: #ff2525;
+    border-radius: 8px;
+    height: 252px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 400px;
+  }
+  
+  .main .rectangle-5 {
+    background-color: #ffffff;
+    border-radius: 8px;
+    height: 240px;
+    left: 33px;
+    position: absolute;
+    top: 36px;
+    width: 403px;
+  }
+  
+  .main .image-4 {
+    height: 263px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    width: 423px;
+  }
+  
+  .main .element {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: 19.8px;
+    position: absolute;
+    top: 91px;
+    width: 340px;
+  }
+  
+  .main .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    position: absolute;
+    top: 30px;
+    white-space: nowrap;
+  }
+  
+  .main .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .main .vector-wrapper {
+    background-color: #ffffff;
+    border-radius: 24.92px;
+    height: 50px;
+    left: 592px;
+    position: absolute;
+    top: 224px;
+    transform: rotate(180deg);
+    width: 50px;
+  }
+  
+  .main .vector-2 {
+    height: 22px;
+    left: 19px;
+    position: absolute;
+    top: 14px;
+    transform: rotate(-180deg);
+    width: 13px;
+  }
+  
+  .main .img-wrapper {
+    background-color: #ffffff;
+    border-radius: 24.92px;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 224px;
+    width: 50px;
+  }
+  
+  .main .vector-3 {
+    height: 22px;
+    left: 19px;
+    position: absolute;
+    top: 14px;
+    width: 13px;
+  }
+  
+  .main .overlap-3 {
+    height: 1948px;
+    left: -53px;
+    position: absolute;
+    top: -49px;
+    width: 1973px;
+  }
+  
+  .main .ellipse-5 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 1619px;
+    width: 195px;
+  }
+  
+  .main .ellipse-6 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 1778px;
+    opacity: 0.5;
+    position: absolute;
+    top: 1204px;
+    width: 195px;
+  }
+  
+  .main .overlap-4 {
+    height: 1948px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1973px;
+  }
+  
+  .main .foto {
+    height: 955px;
+    left: 1018px;
+    overflow: hidden;
+    position: absolute;
+    top: 49px;
+    width: 955px;
+  }
+  
+  .main .overlap-group-3 {
+    height: 2490px;
+    left: -229px;
+    position: relative;
+    top: -546px;
+    width: 1294px;
+  }
+  
+  .main .rectangle-6 {
+    height: 955px;
+    left: 260px;
+    position: absolute;
+    top: 546px;
+    width: 924px;
+  }
+  
+  .main .rectangle-7 {
+    height: 955px;
+    left: 459px;
+    position: absolute;
+    top: 546px;
+    width: 725px;
+  }
+  
+  .main .rectangle-8 {
+    height: 955px;
+    left: 692px;
+    position: absolute;
+    top: 546px;
+    width: 492px;
+  }
+  
+  .main .element-2 {
+    height: 899px;
+    left: 260px;
+    object-fit: cover;
+    position: absolute;
+    top: 602px;
+    width: 905px;
+  }
+  
+  .main .rectangle-9 {
+    background: linear-gradient(180deg, rgba(16, 16, 16, 0) 0%, rgba(16, 16, 16, 1) 100%);
+    height: 1330px;
+    left: 229px;
+    position: absolute;
+    top: 0;
+    width: 955px;
+  }
+  
+  .main .rectangle-10 {
+    background-color: #0f0f0f;
+    height: 1181px;
+    left: 0;
+    position: absolute;
+    top: 1309px;
+    width: 1294px;
+  }
+  
+  .main .ellipse-7 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 408px;
+    position: absolute;
+    top: 470px;
+    width: 195px;
+  }
+  
+  .main .rectangle-11 {
+    height: 268px;
+    left: 53px;
+    position: absolute;
+    top: 772px;
+    width: 1920px;
+  }
+  
+  .main .ellipse-8 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 195px;
+  }
+  
+  .main .ellipse-9 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 410px;
+    position: absolute;
+    top: 854px;
+    width: 195px;
+  }
+  
+  .main .overlap-wrapper {
+    height: 42px;
+    left: 453px;
+    position: absolute;
+    top: 85px;
+    width: 568px;
+  }
+  
+  .main .overlap-5 {
+    background-color: #242424;
+    border-radius: 10px;
+    height: 42px;
+    position: relative;
+    width: 560px;
+  }
+  
+  .main .div-wrapper {
+    background-color: #ff2525;
+    border-radius: 10px;
+    height: 36px;
+    left: 425px;
+    position: absolute;
+    top: 3px;
+    width: 132px;
+  }
+  
+  .main .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 27px;
+    letter-spacing: 0;
+    line-height: 15.4px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .main .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 27px;
+    letter-spacing: 0;
+    line-height: 15.4px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .main .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 130px;
+    letter-spacing: 0;
+    line-height: 15.4px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .main .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 219px;
+    letter-spacing: 0;
+    line-height: 15.4px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .main .vector-4 {
+    height: 151px;
+    left: 134px;
+    position: absolute;
+    top: 171px;
+    width: 1134px;
+  }
+  
+  .main .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 700;
+    left: 433px;
+    letter-spacing: 0;
+    line-height: 72px;
+    position: absolute;
+    top: 177px;
+    width: 628px;
+  }
+  
+  .main .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 791px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    position: absolute;
+    top: 355px;
+    width: 328px;
+  }
+  
+  .main .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 700;
+    left: 1137px;
+    letter-spacing: 0;
+    line-height: 72px;
+    position: absolute;
+    text-align: right;
+    top: 966px;
+    width: 628px;
+  }
+  
+  .main .group-2 {
+    height: 372px;
+    left: 235px;
+    position: absolute;
+    top: 1039px;
+    width: 600px;
+  }
+  
+  .main .overlap-6 {
+    height: 382px;
+    position: relative;
+    width: 604px;
+  }
+  
+  .main .rectangle-12 {
+    height: 337px;
+    left: 22px;
+    position: absolute;
+    top: 44px;
+    width: 582px;
+  }
+  
+  .main .text-wrapper-18 {
+    color: #0f0f0f;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 107px;
+    width: 466px;
+  }
+  
+  .main .group-3 {
+    height: 72px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 581px;
+  }
+  
+  .main .overlap-group-4 {
+    height: 72px;
+    position: relative;
+    width: 579px;
+  }
+  
+  .main .rectangle-13 {
+    background-color: #ff2525;
+    border-radius: 1000px;
+    filter: blur(12px);
+    height: 62px;
+    left: 0;
+    opacity: 0.35;
+    position: absolute;
+    top: 10px;
+    width: 579px;
+  }
+  
+  .main .rectangle-14 {
+    background-color: #ff2525;
+    border: 1px solid;
+    border-color: #ffffff4c;
+    border-radius: 1000px;
+    height: 62px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 579px;
+  }
+  
+  .main .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: 44px;
+    position: absolute;
+    top: 10px;
+    white-space: nowrap;
+  }
+  
+  .main .group-4 {
+    height: 294px;
+    left: 226px;
+    position: absolute;
+    top: 1441px;
+    width: 600px;
+  }
+  
+  .main .overlap-7 {
+    height: 304px;
+    position: relative;
+    width: 603px;
+  }
+  
+  .main .rectangle-15 {
+    height: 260px;
+    left: 22px;
+    position: absolute;
+    top: 45px;
+    width: 581px;
+  }
+  
+  .main .group-5 {
+    height: 300px;
+    left: 1156px;
+    position: absolute;
+    top: 1172px;
+    width: 611px;
+  }
+  
+  .main .overlap-8 {
+    height: 310px;
+    left: -5px;
+    position: relative;
+    width: 616px;
+  }
+  
+  .main .rectangle-16 {
+    height: 263px;
+    left: 0;
+    position: absolute;
+    top: 47px;
+    width: 581px;
+  }
+  
+  .main .text-wrapper-20 {
+    color: #0f0f0f;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 79px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 104px;
+    width: 466px;
+  }
+  
+  .main .group-6 {
+    height: 72px;
+    left: 35px;
+    position: absolute;
+    top: 0;
+    width: 581px;
+  }
+  
+  .main .group-7 {
+    height: 332px;
+    left: 1146px;
+    position: absolute;
+    top: 1511px;
+    width: 612px;
+  }
+  
+  .main .overlap-9 {
+    height: 342px;
+    left: -6px;
+    position: relative;
+    width: 618px;
+  }
+  
+  .main .rectangle-17 {
+    height: 296px;
+    left: 0;
+    position: absolute;
+    top: 47px;
+    width: 582px;
+  }
+  
+  .main .text-wrapper-21 {
+    color: #0f0f0f;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 94px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 107px;
+    width: 466px;
+  }
+  
+  .main .group-8 {
+    height: 72px;
+    left: 37px;
+    position: absolute;
+    top: 0;
+    width: 581px;
+  }
+  
+  .main .text-wrapper-22 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: 44px;
+    position: absolute;
+    top: 10px;
+    white-space: nowrap;
+  }
+  
+  .main .vector-5 {
+    height: 903px;
+    left: 818px;
+    position: absolute;
+    top: 999px;
+    width: 344px;
+  }
+  
+  .main .text-wrapper-23 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 52px;
+    font-style: italic;
+    font-weight: 700;
+    left: 137px;
+    letter-spacing: 0;
+    line-height: 62.4px;
+    position: absolute;
+    text-align: right;
+    top: 1824px;
+    width: 775px;
+  }
+  
+  .main .group-9 {
+    height: 72px;
+    left: 453px;
+    position: absolute;
+    top: 352px;
+    width: 320px;
+  }
+  
+  .main .overlap-10 {
+    height: 72px;
+    position: relative;
+    width: 318px;
+  }
+  
+  .main .rectangle-18 {
+    background-color: #ff2525;
+    border-radius: 1000px;
+    filter: blur(12px);
+    height: 62px;
+    left: 0;
+    opacity: 0.35;
+    position: absolute;
+    top: 10px;
+    width: 318px;
+  }
+  
+  .main .rectangle-19 {
+    background-color: #ff2525;
+    border: 1px solid;
+    border-color: #ffffff4c;
+    border-radius: 1000px;
+    height: 62px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 318px;
+  }
+  
+  .main .text-wrapper-24 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4px;
+  }
+  
+  .main .view-3 {
+    height: 73px;
+    left: 473px;
+    position: absolute;
+    top: 454px;
+    width: 273px;
+  }
+  
+  .main .overlap-11 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 73px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .main .text-wrapper-25 {
+    color: #242424;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 52px;
+    letter-spacing: 0;
+    line-height: 17.6px;
+    position: absolute;
+    top: 28px;
+    white-space: nowrap;
+  }
+  
+  .main .vector-6 {
+    height: 11px;
+    left: 190px;
+    position: absolute;
+    top: 37px;
+    width: 41px;
+  }
+  
+  .main .overlap-12 {
+    height: 1351px;
+    left: -53px;
+    position: absolute;
+    top: 2076px;
+    width: 2002px;
+  }
+  
+  .main .overlap-13 {
+    height: 1351px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2002px;
+  }
+  
+  .main .overlap-14 {
+    height: 836px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2002px;
+  }
+  
+  .main .ellipse-10 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 1807px;
+    opacity: 0.5;
+    position: absolute;
+    top: 641px;
+    width: 195px;
+  }
+  
+  .main .ellipse-11 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 200px;
+    width: 195px;
+  }
+  
+  .main .ellipse-12 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 608px;
+    opacity: 0.5;
+    position: absolute;
+    top: 484px;
+    width: 195px;
+  }
+  
+  .main .rectangle-20 {
+    height: 541px;
+    left: 53px;
+    position: absolute;
+    top: 86px;
+    width: 1920px;
+  }
+  
+  .main .rectangle-21 {
+    height: 669px;
+    left: 53px;
+    position: absolute;
+    top: 44px;
+    width: 1920px;
+  }
+  
+  .main .view-4 {
+    height: 488px;
+    left: 568px;
+    position: absolute;
+    top: 0;
+    width: 1241px;
+  }
+  
+  .main .text-wrapper-26 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
+    left: 894px;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .main .element-3 {
+    height: 385px;
+    left: -16px;
+    position: absolute;
+    top: 120px;
+    width: 303px;
+  }
+  
+  .main .element-4 {
+    height: 385px;
+    left: 294px;
+    position: absolute;
+    top: 120px;
+    width: 303px;
+  }
+  
+  .main .element-5 {
+    height: 385px;
+    left: 604px;
+    position: absolute;
+    top: 120px;
+    width: 303px;
+  }
+  
+  .main .text-wrapper-27 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
+    left: 944px;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    text-align: center;
+    top: 712px;
+    white-space: nowrap;
+  }
+  
+  .main .overlap-15 {
+    height: 533px;
+    left: 488px;
+    position: absolute;
+    top: 818px;
+    width: 1089px;
+  }
+  
+  .main .ellipse-13 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 626px;
+    opacity: 0.5;
+    position: absolute;
+    top: 338px;
+    width: 195px;
+  }
+  
+  .main .view-5 {
+    background-color: #ffffff;
+    border-radius: 18px;
+    height: 415px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1089px;
+  }
+  
+  .main .view-6 {
+    height: 269px;
+    left: 525px;
+    position: absolute;
+    top: 69px;
+    width: 497px;
+  }
+  
+  .main .text-wrapper-28 {
+    color: #0f0f0f;
+    font-family: "TT Firs Neue-BoldItalic", Helvetica;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .main .overlap-group-5 {
+    height: 72px;
+    left: 0;
+    position: absolute;
+    top: 68px;
+    width: 412px;
+  }
+  
+  .main .rectangle-22 {
+    background-color: #ff2525;
+    border-radius: 1000px;
+    filter: blur(12px);
+    height: 62px;
+    left: 0;
+    opacity: 0.35;
+    position: absolute;
+    top: 10px;
+    width: 412px;
+  }
+  
+  .main .rectangle-23 {
+    background-color: #ff2525;
+    border: 1px solid;
+    border-color: #ffffff4c;
+    border-radius: 1000px;
+    height: 62px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 412px;
+  }
+  
+  .main .text-wrapper-29 {
+    color: #ffffff;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .main .flexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 110px;
+    left: 0;
+    position: absolute;
+    top: 159px;
+    width: 491px;
+  }
+  
+  .main .text {
+    align-self: stretch;
+    color: #0f0f0f;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19.8px;
+    position: relative;
+  }
+  
+  .main .text-wrapper-30 {
+    color: #0f0f0f;
+    font-family: "TT Firs Neue-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19.8px;
+  }
+  
+  .main .image-5 {
+    height: 314px;
+    left: 86px;
+    position: absolute;
+    top: 46px;
+    width: 314px;
+  }
+  
+  .main .ellipse-14 {
+    background-color: #ffffff;
+    border-radius: 97.59px;
+    filter: blur(122px);
+    height: 195px;
+    left: 70px;
+    opacity: 0.5;
+    position: absolute;
+    top: 1135px;
+    width: 195px;
+  }
+  

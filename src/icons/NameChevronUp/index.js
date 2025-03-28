@@ -1,0 +1,1 @@
+export { NameChevronUp } from "./NameChevronUp";
